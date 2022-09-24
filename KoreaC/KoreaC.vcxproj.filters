@@ -15,13 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stddio1.c">
+    <ClCompile Include="stdio1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stddio2.c">
+    <ClCompile Include="stdio2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="stddio3.c">
+    <ClCompile Include="stdio3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdio4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdio5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

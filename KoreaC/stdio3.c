@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main3() {
 
 	// printf("안녕하세요\n");
 
@@ -26,5 +26,14 @@ void main() {
 	float 몸무게 = 70.7;		// 몸무게라는 변수에 70.7을 저장, %f
 	char 문자 = 'A';			// 문자라는 공간에 A를 저장, %c
 
-	printf("%d", 나이);
+	// 변수를 사용하는 법
+	// char : %c
+	// int : %d
+	// float : %f
+	// char [] : %s
+	printf("%d", 나이);			// %d에 나이에 들어있는 값이 적용됨
+	printf("%s", 이름);			// %s에 이름에 들어있는 값이 적용된
+	printf("몸무게는 %f", 몸무게);
+	printf("\n name %s, age %d \n", 이름, 나이);
+	// %s에는 이름안에 값이, %d는 나이안에 값이 들어감
 }
