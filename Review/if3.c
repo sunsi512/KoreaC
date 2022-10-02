@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void main() {
+void main5() {
 	//char alpha = 'C';
 	//
 	//if (alpha == 'A') {
