@@ -4,7 +4,7 @@
 #include <mmsystem.h>		// 소리
 #pragma comment(lib, "winmm.lib")			// 라이브러리 추가 (C파일을 추가
 
-int main() {
+int main1() {
 	char key_in;
 	int _do = 260, _re = 290, _mi = 330, _pa = 340, _sol = 380, _ra = 430, _si = 490, _do2 = 510;
 	
