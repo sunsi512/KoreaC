@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int main4() {
+int main() {
 	// 배열 : 변수를 뭉쳐놓은 것
 	char arr1[100];		// char변수 100개 뭉쳐놓음
 
